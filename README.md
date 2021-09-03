@@ -18,6 +18,11 @@
 - [Typescript Certificate](https://studies.cs.helsinki.fi/stats/api/certificate/fs-typescript/en/ba649a41a9e510f365481d61f1ad7c48)
   ![Typescript Certificate](https://github.com/sidinsomniac/certificates/blob/main/certificate-typescript.png?raw=true)
 
+## Amcat Topper Certificate
+
+- [AMCAT Toppers Club Link](https://www.myamcat.com/amcat-toppers?batchID=16&p=9)
+  ![Amcat Topper Certificate](https://github.com/sidinsomniac/certificates/blob/main/amcat.png?raw=true)
+
 ## Bootcamp Certificates
 
 - [The Complete Web Development Bootcamp 2021](https://www.udemy.com/certificate/UC-ee3edc3c-4ce0-48a6-ab27-fda8d5026844/)
