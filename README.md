@@ -1,6 +1,13 @@
 # Certificates
 
-## Bootcamp Certificates  
+## Google Frontend Scholars - Udacity Nanodegree
+
+- [Frontend Web Developer Nanodegree Nanodegree](https://confirm.udacity.com/YN3ZUCLT)
+
+![Google Frontend Scholar](https://github.com/sidinsomniac/certificates/blob/main/Google-Scholarship-India-Badge.png?raw=true)
+![Udacity Frontend Web Developer Nanodegree](https://github.com/sidinsomniac/certificates/blob/main/nanodegree.png?raw=true)
+
+## Bootcamp Certificates
 
 - [The Complete Web Development Bootcamp 2021](https://www.udemy.com/certificate/UC-ee3edc3c-4ce0-48a6-ab27-fda8d5026844/)
 
@@ -14,6 +21,6 @@
 
 ![The Complete Web Development Course 2.0](https://github.com/sidinsomniac/certificates/blob/main/tcwdc.png?raw=true)
 
-- The Web Development Bootcamp
+- The Web Developer Bootcamp
 
 ![alt text](https://github.com/sidinsomniac/certificates/blob/main/twdb.png?raw=true)
