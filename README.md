@@ -23,6 +23,11 @@
 - [AMCAT Toppers Club Link](https://www.myamcat.com/amcat-toppers?batchID=16&p=9)
   ![Amcat Topper Certificate](https://github.com/sidinsomniac/certificates/blob/main/amcat.png?raw=true)
 
+## GATE 2017 Scorecard
+
+- GATE 2017 Scorecard
+  ![Amcat Topper Certificate](https://github.com/sidinsomniac/certificates/blob/main/gate.png?raw=true)
+
 ## Bootcamp Certificates
 
 - [The Complete Web Development Bootcamp 2021](https://www.udemy.com/certificate/UC-ee3edc3c-4ce0-48a6-ab27-fda8d5026844/)
